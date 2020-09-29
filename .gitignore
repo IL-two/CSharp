@@ -1,0 +1,91 @@
+
+Find a pair/.vs/Find a pair/v16/.suo
+*.lock
+*.ide
+*.resx
+*.csproj
+*.sln
+*.cache
+*.CopyComplete
+*.txt
+*.resources
+*.p7s
+*.props
+*.targets
+*.xdt
+*.transform
+*.nupkg
+*.psd1
+*.psm1
+*.ps1
+*.json
+*.rar
+*.settings
+FAP/Find a pair/.vs/Find a pair/v15/.suo
+*.ide-shm
+*.ide-wal
+FAP/Find a pair/.vs/Find a pair/v16/.suo
+FAP/Find a pair/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+FAP/Find a pair/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+FAP/Find a pair/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+FAP/Find a pair/Properties/AssemblyInfo.cs
+FAP/Find a pair/Properties/Resources.Designer.cs
+FAP/Find a pair/Properties/Settings.Designer.cs
+FAP/CodeFirst/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+FAP/CodeFirst/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+FAP/CodeFirst/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+FAP/CodeFirst/Properties/AssemblyInfo.cs
+FAP/Find a pair/obj/Release/Find a pair.exe
+FAP/Find a pair/packages/EntityFramework.6.4.0/tools/net40/any/ef6.exe
+FAP/Find a pair/packages/EntityFramework.6.4.0/tools/net40/win-x86/ef6.exe
+FAP/Find a pair/packages/EntityFramework.6.4.0/tools/net45/any/ef6.exe
+FAP/Find a pair/packages/EntityFramework.6.4.0/tools/net45/win-x86/ef6.exe
+FAP/Find a pair/obj/Debug/Find a pair.exe
+FAP/Find a pair/bin/Release/Find a pair.exe
+FAP/Find a pair/CodeFirst.cs
+FAP/CodeFirst/bin/Release/CodeFirst.dll
+FAP/CodeFirst/bin/Release/CodeFirst.dll.config
+FAP/CodeFirst/bin/Release/EntityFramework.dll
+FAP/CodeFirst/bin/Release/EntityFramework.SqlServer.dll
+FAP/CodeFirst/obj/Release/CodeFirst.dll
+FAP/CodeFirst/obj/Debug/CodeFirst.dll
+FAP/CodeFirst/packages.config
+FAP/Find a pair/App.config
+FAP/Find a pair/bin/Release/CodeFirst.dll
+FAP/Find a pair/bin/Release/CodeFirst.dll.config
+FAP/Find a pair/bin/Release/EntityFramework.dll
+FAP/Find a pair/bin/Release/EntityFramework.SqlServer.dll
+FAP/Find a pair/bin/Release/Find a pair.exe.config
+FAP/Find a pair/obj/Debug/TempPE/Properties.Resources.Designer.cs.dll
+FAP/Find a pair/packages.config
+FAP/Find a pair/packages/EntityFramework.6.4.0/build/Microsoft.Data.Entity.Build.Tasks.dll
+FAP/Find a pair/packages/EntityFramework.6.4.0/lib/net40/EntityFramework.dll
+FAP/Find a pair/packages/EntityFramework.6.4.0/lib/net40/EntityFramework.SqlServer.dll
+FAP/Find a pair/packages/EntityFramework.6.4.0/lib/net45/EntityFramework.dll
+FAP/Find a pair/packages/EntityFramework.6.4.0/lib/net45/EntityFramework.SqlServer.dll
+FAP/Find a pair/packages/EntityFramework.6.4.0/lib/netstandard2.1/EntityFramework.dll
+FAP/Find a pair/packages/EntityFramework.6.4.0/lib/netstandard2.1/EntityFramework.SqlServer.dll
+FAP/Find a pair/packages/EntityFramework.6.4.0/tools/netcoreapp3.0/any/ef6.dll
+FAP/CodeFirst/App.config
+FAP/CodeFirst/obj/Release/CodeFirst.pdb
+FAP/CodeFirst/bin/Release/EntityFramework.xml
+FAP/CodeFirst/bin/Release/EntityFramework.SqlServer.xml
+FAP/CodeFirst/bin/Release/CodeFirst.pdb
+FAP/CodeFirst/obj/Debug/CodeFirst.pdb
+FAP/Find a pair/bin/Release/CodeFirst.pdb
+FAP/Find a pair/bin/Release/EntityFramework.SqlServer.xml
+FAP/Find a pair/bin/Release/EntityFramework.xml
+FAP/Find a pair/bin/Release/Find a pair.pdb
+FAP/Find a pair/obj/Debug/Find a pair.pdb
+FAP/Find a pair/obj/Release/Find a pair.pdb
+FAP/Find a pair/packages/EntityFramework.6.4.0/lib/net40/EntityFramework.SqlServer.xml
+FAP/Find a pair/packages/EntityFramework.6.4.0/lib/net40/EntityFramework.xml
+FAP/Find a pair/packages/EntityFramework.6.4.0/lib/net45/EntityFramework.SqlServer.xml
+FAP/Find a pair/packages/EntityFramework.6.4.0/lib/net45/EntityFramework.xml
+FAP/Find a pair/packages/EntityFramework.6.4.0/lib/netstandard2.1/EntityFramework.SqlServer.xml
+FAP/Find a pair/packages/EntityFramework.6.4.0/lib/netstandard2.1/EntityFramework.xml
+FAP/Find a pair/packages/EntityFramework.6.4.0/tools/net40/any/ef6.pdb
+FAP/Find a pair/packages/EntityFramework.6.4.0/tools/net40/win-x86/ef6.pdb
+FAP/Find a pair/packages/EntityFramework.6.4.0/tools/net45/any/ef6.pdb
+FAP/Find a pair/packages/EntityFramework.6.4.0/tools/net45/win-x86/ef6.pdb
+FAP/Find a pair/packages/EntityFramework.6.4.0/tools/netcoreapp3.0/any/ef6.pdb
